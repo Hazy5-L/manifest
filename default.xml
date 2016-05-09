@@ -51,7 +51,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
-  <project path="device/oneplus/bacon" name="device_oneplus_bacon" remote="gh" />
+  <project path="device/oneplus/bacon" name="device_oneplus_bacon" remote="gz" />
   <project path="device/oppo/common" name="device_oppo_common" remote="gz" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" />
