@@ -391,7 +391,7 @@
   <project path="hardware/ril" name="hardware_ril" remote="aospb" />
   <project path="hardware/ril-caf" name="hardware_ril" remote="aospb" revision="mm6.0-caf" />
   <project path="kernel/oneplus/msm8974" name="android_kernel_oneplus_msm8974" remote="go" />
-  <project path="vendor/oneplus" name="vendor_oneplus" remote="gs" />  
+  <project path="vendor/oneplus" name="vendor_oneplus" remote="gl" />  
   <project path="libcore" name="libcore" remote="aospb" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" />
