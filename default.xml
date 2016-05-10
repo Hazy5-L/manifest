@@ -35,7 +35,7 @@
            revision="6.0" />
     <remote  name="gs"
            fetch="https://github.com/Hazy5-L"
-           revision="cm-13.0" />
+           revision="mm" />
 
   <default revision="refs/tags/android-6.0.1_r22"
            remote="aosp"
@@ -56,7 +56,7 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/oneplus/bacon" name="device_oneplus_bacon" remote="gz" />
-  <project path="device/oppo/common" name="device_oppo_common" remote="gz" />
+  <project path="device/oppo/common" name="device_oppo_common" remote="gs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
