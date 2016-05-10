@@ -24,7 +24,7 @@
            
    <remote  name="gl"
            fetch="https://github.com/hazy5-l"
-           revision="android-6.0" />
+           revision="cm-13.0" />
            
   <remote  name="hz"
            fetch="https://github.com/Hazy5-L"
