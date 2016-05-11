@@ -397,7 +397,8 @@
   <project path="ndk" name="platform/ndk" groups="generic_fs" />
   <project path="packages/apps/BasicSmsReceiver" name="packages_apps_BasicSmsReceiver" remote="aospb" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="aospb" />
-  <project path="packages/apps/Browser" name="HazyTeam/platform_packages_apps_browser" remote="github" revision="master" groups="pdk-fs" />  <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" groups="pdk-fs" />
+  <project path="packages/apps/Browser" name="packages_apps_Browser" remote="gh" groups="pdk-fs" />
+  <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" groups="pdk-fs" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="aospb" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" groups="pdk-fs" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="aospb" />
@@ -407,7 +408,7 @@
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="aospb" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="aospb" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="aospb" />
-  <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="hazy" />
+  <project path="packages/apps/Dialer" name="packages_apps_Email" remote="aospb" />
   <project path="packages/apps/Email" name="packages_apps_Email" remote="aospb" />
   <project path="packages/apps/ExactCalculator" name="platform/packages/apps/ExactCalculator" groups="pdk-fs" />
   <project path="packages/apps/Exchange" name="packages_apps_Exchange" remote="aospb" />
